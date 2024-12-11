@@ -16,7 +16,7 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> November 2020: [Cryptocurrency price correlation](https://github.com/SchniderB/crypto-correlation-python) - This project explains how to compute price correlations between different cryptocurrencies in Python
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Trading bot algorithm training](trading-bot-training) - Instructions to train and optimize a Python trading bot
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Trading bot algorithm training](https://github.com/SchniderB/trading-bot-training) - Instructions to train and optimize a Python trading bot
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Kraken trading bot](https://github.com/SchniderB/kraken-trading-bot) - Instructions to develop and use a Python trading bot with Kraken
 
