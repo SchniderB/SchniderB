@@ -12,19 +12,21 @@
 
 <h3 align="left">A quick history of my projects here:</h3>
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> August 2020: [Cryptocurrency price history extraction](https://github.com/SchniderB/crypto-history-extraction) - This project automates the extraction of cryptocurrency price history from Kraken using Kraken's API
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="20" height="20"/> 2025: [Mass Spectrometry Data Management System](https://github.com/lsmsgeneva/MSDMS) - Development of a web application that allows users to create project-specific mass spectrometry libraries
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> November 2020: [Cryptocurrency price correlation](https://github.com/SchniderB/crypto-correlation-python) - This project explains how to compute price correlations between different cryptocurrencies in Python
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Trading bot algorithm training](https://github.com/SchniderB/trading-bot-training) - Instructions to train and optimize a Python trading bot
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Kraken trading bot](https://github.com/SchniderB/kraken-trading-bot) - Instructions to develop and use a Python trading bot with Kraken
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> July 2021: [Binance trading bot](https://github.com/SchniderB/binance-trading-bot) - Instructions to develop and use a Python trading bot with Binance
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> November 2024: [Youtube public data parsing](https://github.com/SchniderB/youtube-smash-stats) - This project aims to extract the view, like and comment counts of Smash Ultimate tournaments to compute statistics and graphs for each character and player
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> June 2023: [Instagram public data parsing](https://github.com/SchniderB/insta-data-parsing) - Instructions to parse football club data from Instagram without using Instagram's API
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> November 2024: [Youtube public data parsing](https://github.com/SchniderB/youtube-smash-stats) - This project aims to extract the view, like and comment counts of Smash Ultimate tournaments to compute statistics and graphs for each character and player
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> July 2021: [Binance trading bot](https://github.com/SchniderB/binance-trading-bot) - Instructions to develop and use a Python trading bot with Binance
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Kraken trading bot](https://github.com/SchniderB/kraken-trading-bot) - Instructions to develop and use a Python trading bot with Kraken
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Trading bot algorithm training](https://github.com/SchniderB/trading-bot-training) - Instructions to train and optimize a Python trading bot
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> November 2020: [Cryptocurrency price correlation](https://github.com/SchniderB/crypto-correlation-python) - This project explains how to compute price correlations between different cryptocurrencies in Python
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> August 2020: [Cryptocurrency price history extraction](https://github.com/SchniderB/crypto-history-extraction) - This project automates the extraction of cryptocurrency price history from Kraken using Kraken's API
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
