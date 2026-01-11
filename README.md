@@ -18,6 +18,8 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> June 2023: [Instagram public data parsing](https://github.com/SchniderB/insta-data-parsing) - Instructions to parse football club data from Instagram without using Instagram's API
 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="20" height="20"/> June 2023: [Cryptomancy](https://github.com/SchniderB/Cryptomancy) - A centralized cryptocurrency dashboard to unify fragmented wallets and monitor real-time metrics, built with Java and Room Database
+
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> July 2021: [Binance trading bot](https://github.com/SchniderB/binance-trading-bot) - Instructions to develop and use a Python trading bot with Binance
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> December 2020: [Kraken trading bot](https://github.com/SchniderB/kraken-trading-bot) - Instructions to develop and use a Python trading bot with Kraken
