@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **Full-stack developer**
 
-- 💬 I’m working with **PHP, Javascript, Flask, MySQL, MongoDB, Docker**
+- 💬 I’m working with **PHP, Javascript, Flask, MySQL, MongoDB, Docker, React, Express**
 
 - 🌱 I’m currently learning **MongoDB**
 
