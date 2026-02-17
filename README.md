@@ -16,6 +16,8 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> November 2024: [Youtube public data parsing](https://github.com/SchniderB/youtube-smash-stats) - This project aims to extract the view, like and comment counts of Smash Ultimate tournaments to compute statistics and graphs for each character and player
 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> August 2023: [Cryptomancy website](https://github.com/SchniderB/cryptomancy-website) - The companion website for Cryptomancy, built with Flask and Bootstrap, presenting the project, providing app downloads and tutorials, and including legal pages
+
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> June 2023: [Instagram public data parsing](https://github.com/SchniderB/insta-data-parsing) - Instructions to parse football club data from Instagram without using Instagram's API
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="20" height="20"/> June 2023: [Cryptomancy](https://github.com/SchniderB/Cryptomancy) - A centralized cryptocurrency dashboard to unify fragmented wallets and monitor real-time metrics, built with Java and Room Database
